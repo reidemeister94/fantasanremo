@@ -9,7 +9,7 @@ For the computation of the costs and scores of the singers, some data is collect
  - https://www.goldbet.it/
  - https://eurovisionworld.com/
 
-The task is, in the end, an [optimization problem](https://en.wikipedia.org/wiki/Optimization_problem) that I solved using Pulp, which is one of the best LP modelers written in Python.
+The task is, in the end, an [optimization problem](https://en.wikipedia.org/wiki/Optimization_problem) that I solved using [Pulp](https://coin-or.github.io/pulp/), which is one of the best LP modelers written in Python.
 
 Requirements
 -------------
