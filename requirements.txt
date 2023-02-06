@@ -1,5 +1,5 @@
-lxml
-beautifulsoup4
-requests
-pulp
-nb-black
+beautifulsoup4==4.11.*
+lxml==4.9.*
+nb-black==1.0.*
+pulp==2.7.*
+requests==2.28.*
