@@ -1,5 +1,5 @@
 
-# FantaSanremo
+# FantaSanremo 2023
 
 A little experiment for predicting the best team of 5 performers for the 2023 edition of the Italian Festival of Sanremo, with python.
 
